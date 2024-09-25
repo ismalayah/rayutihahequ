@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://rayutihahequ.netlify.app/sitemap.xml
